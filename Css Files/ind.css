@@ -17,7 +17,7 @@ body{
     columns: #707070;
 }
 .container{
-    max-width:557px;
+   
     margin:auto;
     display:flex;
     flex-direction: column;
